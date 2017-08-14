@@ -8,6 +8,12 @@ https://docs.oracle.com/javase/tutorial/networking/urls/readingWriting.html
 Creating an object:  MyObject object = new MyObject();
 Factory Methods:
 https://stackoverflow.com/questions/24277032/inetaddress-direct-instantiation
+Three commonly used InetAddress factory methods are shown here :-
+
+static InetAddress getLocalHost() throws UnknownHostException
+static InetAddress getByName(String hostName) throws UnknownHostException
+static InetAddress[] getAllByName(String hostName) throws UnknownHostException
+
 
 
  */
