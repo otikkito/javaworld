@@ -5,6 +5,11 @@
 
 //Reference:
 https://docs.oracle.com/javase/tutorial/networking/urls/readingWriting.html
+Creating an object:  MyObject object = new MyObject();
+Factory Methods:
+https://stackoverflow.com/questions/24277032/inetaddress-direct-instantiation
+
+
  */
 package javanetworking;
 
