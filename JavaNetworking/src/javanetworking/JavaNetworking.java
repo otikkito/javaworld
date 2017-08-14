@@ -31,6 +31,11 @@ public class JavaNetworking {
            System.out.println("--------------------");
            i = InetAddress.getByName("www.google.com");
            System.out.println("www.google.com " + i.toString());
+           InetAddress[] inetArray = InetAddress.getAllByName("www.google.com");
+           for(int j=0;j<inetArray.length;j++){
+               System.out.println("www.google.com: " + inetArray[j]);
+               
+           }
         }
         catch (UnknownHostException e) {
             System.out.println("Unknown host exception: " + e.toString());
