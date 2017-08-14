@@ -34,6 +34,7 @@ public class JavaNetworking {
            
            InetAddress[] inetArray = InetAddress.getAllByName("www.google.com");
            
+           //The ide is sugessting to use the enhanced for loop.
            for(int j=0;j<inetArray.length;j++){
                System.out.println("www.google.com: " + inetArray[j]);
                
