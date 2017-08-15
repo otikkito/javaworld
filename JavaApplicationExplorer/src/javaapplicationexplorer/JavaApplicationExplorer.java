@@ -6,6 +6,9 @@
 
 //The Java api : http://docs.oracle.com/javase/8/docs/api/
 //Java coding style : http://www.oracle.com/technetwork/java/codeconvtoc-136057.html
+
+//Ten common usesful classes in java: http://www.dummies.com/programming/java/10-useful-classes-in-the-java-api/
+//applet,arraylist,File,Integer,Math,NumberFormat,Scanner, String, StringTokenizer, System
 /*
 object instantiation:
 ClassTemplateName objectName = new CassTemlateName(...)
