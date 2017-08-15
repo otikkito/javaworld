@@ -21,6 +21,7 @@ objectName.<method name>
 package javaapplicationexplorer;
 
 import java.util.Random;
+import java.util.ArrayList;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -84,6 +85,28 @@ public class JavaApplicationExplorer {
             System.out.println("token " + g + ":" + arrayString[g]);
         }
         
+        ArrayList al = new ArrayList();
+        System.out.println("The initial size of al is : " + al.size());
+        
+        // add elements to the array list
+      al.add("C");
+      al.add("A");
+      al.add("E");
+      al.add("B");
+      al.add("D");
+      al.add("F");
+      al.add(2);
+      al.add(1, "A2");
+      System.out.println("Size of al after additions: " + al.size());
+
+      // display the array list
+      System.out.println("Contents of al: " + al);
+
+      // Remove elements from the array list
+      al.remove("F");
+      al.remove(2);
+      System.out.println("Size of al after deletions: " + al.size());
+      System.out.println("Contents of al: " + al);
         
         
          
