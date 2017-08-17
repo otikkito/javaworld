@@ -25,7 +25,7 @@ public class ApplicationLog {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome to the application log");
-        applog.log(Level.WARNING,"This is the begging of the application log.");
+        applog.log(Level.WARNING,"This is the start of the application log.");
         
         //Setup file application log
         FileHandler fh;
