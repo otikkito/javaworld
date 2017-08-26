@@ -6,3 +6,5 @@
 /JavaNetworking/build/
 /JavaNetworking/nbproject/private/
 /JavaApplicationExplorer/build/
+/JavaForProgrammers/Chapter2/Chapter2/nbproject/private/
+*.class
