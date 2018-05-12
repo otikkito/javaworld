@@ -13,3 +13,7 @@ java tutorial:
 1)https://www.tutorialspoint.com/java/index.htm
 
 2)https://docs.oracle.com/javase/tutorial/
+
+------------------------------------------------------------------------------------
+
+Java Terms: https://docs.oracle.com/javase/tutorial/information/glossary.html
