@@ -19,3 +19,7 @@ java tutorial:
 Java Terms: https://docs.oracle.com/javase/tutorial/information/glossary.html
 
 Java terms and examples: https://stackify.com/java-glossary/
+
+------------------------------------------------------------------------------------
+
+Java cert. at oracle: http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808
