@@ -14,6 +14,8 @@ java tutorial:
 
 2)https://docs.oracle.com/javase/tutorial/
 
+3)https://www.journaldev.com/7153/core-java-tutorial
+
 ------------------------------------------------------------------------------------
 
 Java Terms: https://docs.oracle.com/javase/tutorial/information/glossary.html
