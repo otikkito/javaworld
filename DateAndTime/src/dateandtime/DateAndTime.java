@@ -34,7 +34,7 @@ public class DateAndTime {
         System.out.println("The estimated elapse time was: " + diff + " nanoseconds");
         
        /*
-        To get the furrent date info can be found at the following url
+        To get the current date info can be found at the following url
         https://www.mkyong.com/java/java-how-to-get-current-date-time-date-and-calender/
         */
     }
