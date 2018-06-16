@@ -12,6 +12,10 @@ Java certification: https://education.oracle.com/pls/web_prod-plq-dad/ou_product
 
 ------------------------------------------------------------------------------------
 
+Java documentation: http://www.oracle.com/technetwork/java/javase/documentation/index.html
+
+------------------------------------------------------------------------------------
+
 java tutorial: 
 
 1)https://www.tutorialspoint.com/java/index.htm
