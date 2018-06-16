@@ -8,6 +8,10 @@ Java jdk: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads
 
 ------------------------------------------------------------------------------------
 
+Java certification: https://education.oracle.com/pls/web_prod-plq-dad/ou_product_category.getPageCert?p_cat_id=267
+
+------------------------------------------------------------------------------------
+
 java tutorial: 
 
 1)https://www.tutorialspoint.com/java/index.htm
