@@ -14,7 +14,7 @@ Java certification: https://education.oracle.com/pls/web_prod-plq-dad/ou_product
 
 Java documentation: http://www.oracle.com/technetwork/java/javase/documentation/index.html
 
-Java 8 Api documentation: https://docs.oracle.com/javase/8/docs/api/index.html
+Java 8 SE Api documentation: https://docs.oracle.com/javase/8/docs/api/index.html
 
 ------------------------------------------------------------------------------------
 
