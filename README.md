@@ -39,4 +39,8 @@ Java cert. at oracle: http://education.oracle.com/pls/web_prod-plq-dad/db_pages.
 
 ------------------------------------------------------------------------------------
 
+Cpp vs. Java: https://www.javatpoint.com/cpp-vs-java
+
+------------------------------------------------------------------------------------
+
 Top 100 Classes used in java: https://www.programcreek.com/2014/09/top-100-classes-used-in-java-projects/
