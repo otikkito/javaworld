@@ -1,1 +1,1 @@
-Java cheat cheat: https://introcs.cs.princeton.edu/java/11cheatsheet/
+Java cheat sheet: https://introcs.cs.princeton.edu/java/11cheatsheet/
