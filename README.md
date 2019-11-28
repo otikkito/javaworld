@@ -44,3 +44,7 @@ Cpp vs. Java: https://www.javatpoint.com/cpp-vs-java
 ------------------------------------------------------------------------------------
 
 Top 100 Classes used in java: https://www.programcreek.com/2014/09/top-100-classes-used-in-java-projects/
+
+------------------------------------------------------------------------------------
+
+Devops: https://www.javatpoint.com/devops
