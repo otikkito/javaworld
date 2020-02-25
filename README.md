@@ -41,7 +41,7 @@ Java cert. at oracle: http://education.oracle.com/pls/web_prod-plq-dad/db_pages.
 
 Cpp vs. Java: https://www.javatpoint.com/cpp-vs-java
 
-10 OOP design: https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65
+10 OOP design principle: https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65
 
 ------------------------------------------------------------------------------------
 
